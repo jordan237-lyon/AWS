@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect x="0" y="0" width="1200" height="720" fill="#f6f2ea"/>
+<rect x="24" y="24" width="1152" height="672" rx="24" fill="#fffdf8" stroke="#eadfce"/>
+<text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">ETL Output Snapshot</text>
+<text x="60" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Vue rapide des volumes produits par le dernier run</text>
+<rect x="70" y="160" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="94" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Lignes enrichies</text>
+<text x="94" y="256" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">225420</text>
+<rect x="398" y="160" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="422" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Pays</text>
+<text x="422" y="256" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">34</text>
+<rect x="726" y="160" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="750" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Mois</text>
+<text x="750" y="256" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">22</text>
+<rect x="70" y="318" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="94" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Fournisseurs</text>
+<text x="94" y="414" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">900</text>
+<rect x="398" y="318" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="422" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Fournisseurs UK 2011</text>
+<text x="422" y="414" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">900</text>
+<rect x="726" y="318" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="750" y="364" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Continents</text>
+<text x="750" y="414" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">5</text>
+<rect x="70" y="476" width="300" height="130" rx="18" fill="#fffdf8" stroke="#e5dac9"/>
+<text x="94" y="522" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#6b7280">Continents annules</text>
+<text x="94" y="572" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">4</text>
+</svg>

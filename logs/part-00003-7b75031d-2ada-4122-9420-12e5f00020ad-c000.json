@@ -1,0 +1,7 @@
+{"step":"enriched","row_count":225420}
+{"step":"country_sales","row_count":34}
+{"step":"monthly_stats","row_count":22}
+{"step":"supplier_sales","row_count":900}
+{"step":"supplier_uk_2011","row_count":900}
+{"step":"continent_sales","row_count":5}
+{"step":"cancellations_by_continent","row_count":4}

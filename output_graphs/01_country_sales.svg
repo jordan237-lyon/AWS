@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect x="0" y="0" width="1200" height="720" fill="#f6f2ea"/>
+<rect x="24" y="24" width="1152" height="672" rx="24" fill="#fffdf8" stroke="#eadfce"/>
+<text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Country Sales</text>
+<text x="60" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Top pays par montant total de ventes</text>
+<text x="164" y="103.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">United Kingdom</text>
+<rect x="180" y="88.0" width="940.00" height="20.00" rx="8" fill="#b85c38"/>
+<text x="1130.00" y="103.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">3.9M</text>
+<text x="164" y="139.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">EIRE</text>
+<rect x="180" y="124.0" width="24.91" height="20.00" rx="8" fill="#b85c38"/>
+<text x="214.91" y="139.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">102.3K</text>
+<text x="164" y="175.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Germany</text>
+<rect x="180" y="160.0" width="22.88" height="20.00" rx="8" fill="#b85c38"/>
+<text x="212.88" y="175.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">93.9K</text>
+<text x="164" y="211.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Netherlands</text>
+<rect x="180" y="196.0" width="21.89" height="20.00" rx="8" fill="#b85c38"/>
+<text x="211.89" y="211.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">89.9K</text>
+<text x="164" y="247.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">France</text>
+<rect x="180" y="232.0" width="20.82" height="20.00" rx="8" fill="#b85c38"/>
+<text x="210.82" y="247.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">85.5K</text>
+<text x="164" y="283.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Australia</text>
+<rect x="180" y="268.0" width="11.99" height="20.00" rx="8" fill="#b85c38"/>
+<text x="201.99" y="283.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">49.2K</text>
+<text x="164" y="319.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Switzerland</text>
+<rect x="180" y="304.0" width="6.75" height="20.00" rx="8" fill="#b85c38"/>
+<text x="196.75" y="319.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">27.7K</text>
+<text x="164" y="355.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Spain</text>
+<rect x="180" y="340.0" width="6.09" height="20.00" rx="8" fill="#b85c38"/>
+<text x="196.09" y="355.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">25.0K</text>
+<text x="164" y="391.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Japan</text>
+<rect x="180" y="376.0" width="4.17" height="20.00" rx="8" fill="#b85c38"/>
+<text x="194.17" y="391.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">17.1K</text>
+<text x="164" y="427.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Belgium</text>
+<rect x="180" y="412.0" width="4.13" height="20.00" rx="8" fill="#b85c38"/>
+<text x="194.13" y="427.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">16.9K</text>
+<text x="164" y="463.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Norway</text>
+<rect x="180" y="448.0" width="3.57" height="20.00" rx="8" fill="#b85c38"/>
+<text x="193.57" y="463.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">14.7K</text>
+<text x="164" y="499.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Portugal</text>
+<rect x="180" y="484.0" width="3.20" height="20.00" rx="8" fill="#b85c38"/>
+<text x="193.20" y="499.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">13.1K</text>
+<text x="164" y="535.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Finland</text>
+<rect x="180" y="520.0" width="2.77" height="20.00" rx="8" fill="#b85c38"/>
+<text x="192.77" y="535.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">11.4K</text>
+<text x="164" y="571.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Sweden</text>
+<rect x="180" y="556.0" width="2.27" height="20.00" rx="8" fill="#b85c38"/>
+<text x="192.27" y="571.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">9.3K</text>
+<text x="164" y="607.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">Singapore</text>
+<rect x="180" y="592.0" width="2.00" height="20.00" rx="8" fill="#b85c38"/>
+<text x="192.00" y="607.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">8.2K</text>
+</svg>

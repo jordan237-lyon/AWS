@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect x="0" y="0" width="1200" height="720" fill="#f6f2ea"/>
+<rect x="24" y="24" width="1152" height="672" rx="24" fill="#fffdf8" stroke="#eadfce"/>
+<text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Continent Sales</text>
+<text x="60" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Ventes agregees par continent</text>
+<rect x="192.00" y="120.00" width="172.00" height="500.00" rx="8" fill="#b85c38"/>
+<text x="278.00" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 278.00 644)">Europe</text>
+<text x="278.00" y="110.00" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">4.4M</text>
+<rect x="388.00" y="614.38" width="172.00" height="5.62" rx="8" fill="#b85c38"/>
+<text x="474.00" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 474.00 644)">Oceania</text>
+<text x="474.00" y="604.38" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">49.2K</text>
+<rect x="584.00" y="616.03" width="172.00" height="3.97" rx="8" fill="#b85c38"/>
+<text x="670.00" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 670.00 644)">Asia</text>
+<text x="670.00" y="606.03" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">34.7K</text>
+<rect x="780.00" y="619.52" width="172.00" height="0.48" rx="8" fill="#b85c38"/>
+<text x="866.00" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 866.00 644)">North America</text>
+<text x="866.00" y="609.52" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">4.2K</text>
+<rect x="976.00" y="619.76" width="172.00" height="0.24" rx="8" fill="#b85c38"/>
+<text x="1062.00" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 1062.00 644)">Unknown</text>
+<text x="1062.00" y="609.76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">2.1K</text>
+</svg>

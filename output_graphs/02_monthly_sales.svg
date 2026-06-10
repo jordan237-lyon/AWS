@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect x="0" y="0" width="1200" height="720" fill="#f6f2ea"/>
+<rect x="24" y="24" width="1152" height="672" rx="24" fill="#fffdf8" stroke="#eadfce"/>
+<text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Monthly Sales Trend</text>
+<text x="60" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Evolution mensuelle du chiffre d&#x27;affaires</text>
+<line x1="180" y1="80.00" x2="1160" y2="80.00" stroke="#d9d2c5" stroke-width="1"/>
+<text x="166" y="85.00" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7280">432.5K</text>
+<line x1="180" y1="188.00" x2="1160" y2="188.00" stroke="#d9d2c5" stroke-width="1"/>
+<text x="166" y="193.00" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7280">346.0K</text>
+<line x1="180" y1="296.00" x2="1160" y2="296.00" stroke="#d9d2c5" stroke-width="1"/>
+<text x="166" y="301.00" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7280">259.5K</text>
+<line x1="180" y1="404.00" x2="1160" y2="404.00" stroke="#d9d2c5" stroke-width="1"/>
+<text x="166" y="409.00" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7280">173.0K</text>
+<line x1="180" y1="512.00" x2="1160" y2="512.00" stroke="#d9d2c5" stroke-width="1"/>
+<text x="166" y="517.00" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7280">86.5K</text>
+<line x1="180" y1="620.00" x2="1160" y2="620.00" stroke="#d9d2c5" stroke-width="1"/>
+<text x="166" y="625.00" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#6b7280">0.00</text>
+<circle cx="180.00" cy="546.61" r="5" fill="#b85c38"/>
+<text x="180.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-01</text>
+<text x="180.00" y="534.61" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">58.8K</text>
+<circle cx="226.67" cy="560.53" r="5" fill="#b85c38"/>
+<text x="226.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-02</text>
+<text x="226.67" y="548.53" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">47.6K</text>
+<circle cx="273.33" cy="561.44" r="5" fill="#b85c38"/>
+<text x="273.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-03</text>
+<text x="273.33" y="549.44" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">46.9K</text>
+<circle cx="320.00" cy="580.84" r="5" fill="#b85c38"/>
+<text x="320.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-05</text>
+<text x="320.00" y="568.84" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">31.4K</text>
+<circle cx="366.67" cy="551.80" r="5" fill="#b85c38"/>
+<text x="366.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-06</text>
+<text x="366.67" y="539.80" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">54.6K</text>
+<circle cx="413.33" cy="512.60" r="5" fill="#b85c38"/>
+<text x="413.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-07</text>
+<text x="413.33" y="500.60" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">86.0K</text>
+<circle cx="460.00" cy="563.52" r="5" fill="#b85c38"/>
+<text x="460.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-08</text>
+<text x="460.00" y="551.52" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">45.2K</text>
+<circle cx="506.67" cy="553.14" r="5" fill="#b85c38"/>
+<text x="506.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-09</text>
+<text x="506.67" y="541.14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">53.5K</text>
+<circle cx="553.33" cy="546.31" r="5" fill="#b85c38"/>
+<text x="553.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-10</text>
+<text x="553.33" y="534.31" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">59.0K</text>
+<circle cx="600.00" cy="598.62" r="5" fill="#b85c38"/>
+<text x="600.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2010-12</text>
+<text x="600.00" y="586.62" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">17.1K</text>
+<circle cx="646.67" cy="292.90" r="5" fill="#b85c38"/>
+<text x="646.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-01</text>
+<text x="646.67" y="280.90" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">262.0K</text>
+<circle cx="693.33" cy="300.19" r="5" fill="#b85c38"/>
+<text x="693.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-02</text>
+<text x="693.33" y="288.19" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">256.1K</text>
+<circle cx="740.00" cy="267.23" r="5" fill="#b85c38"/>
+<text x="740.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-03</text>
+<text x="740.00" y="255.23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">282.5K</text>
+<circle cx="786.67" cy="140.22" r="5" fill="#b85c38"/>
+<text x="786.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-04</text>
+<text x="786.67" y="128.22" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">384.3K</text>
+<circle cx="833.33" cy="145.04" r="5" fill="#b85c38"/>
+<text x="833.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-05</text>
+<text x="833.33" y="133.04" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">380.4K</text>
+<circle cx="880.00" cy="193.59" r="5" fill="#b85c38"/>
+<text x="880.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-06</text>
+<text x="880.00" y="181.59" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">341.5K</text>
+<circle cx="926.67" cy="80.00" r="5" fill="#b85c38"/>
+<text x="926.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-07</text>
+<text x="926.67" y="68.00" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">432.5K</text>
+<circle cx="973.33" cy="182.31" r="5" fill="#b85c38"/>
+<text x="973.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-08</text>
+<text x="973.33" y="170.31" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">350.5K</text>
+<circle cx="1020.00" cy="249.43" r="5" fill="#b85c38"/>
+<text x="1020.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-09</text>
+<text x="1020.00" y="237.43" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">296.8K</text>
+<circle cx="1066.67" cy="196.57" r="5" fill="#b85c38"/>
+<text x="1066.67" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-10</text>
+<text x="1066.67" y="184.57" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">339.1K</text>
+<circle cx="1113.33" cy="107.19" r="5" fill="#b85c38"/>
+<text x="1113.33" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-11</text>
+<text x="1113.33" y="95.19" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">410.7K</text>
+<circle cx="1160.00" cy="328.45" r="5" fill="#b85c38"/>
+<text x="1160.00" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">2011-12</text>
+<text x="1160.00" y="316.45" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937">233.5K</text>
+<polyline fill="none" stroke="#457b9d" stroke-width="4" points="180.00,546.61 226.67,560.53 273.33,561.44 320.00,580.84 366.67,551.80 413.33,512.60 460.00,563.52 506.67,553.14 553.33,546.31 600.00,598.62 646.67,292.90 693.33,300.19 740.00,267.23 786.67,140.22 833.33,145.04 880.00,193.59 926.67,80.00 973.33,182.31 1020.00,249.43 1066.67,196.57 1113.33,107.19 1160.00,328.45"/>
+</svg>

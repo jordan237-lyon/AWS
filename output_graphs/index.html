@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Online Retail Graphs</title>
+  <style>
+    :root {
+      --bg: #f5efe6;
+      --panel: #fffdf9;
+      --border: #e4d8c8;
+      --text: #24303f;
+      --muted: #6b7280;
+      --accent: #b85c38;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(180deg, #efe4d3 0%, var(--bg) 100%);
+      color: var(--text);
+    }
+    .wrap {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 32px 24px 48px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 36px;
+    }
+    p {
+      margin: 0 0 28px;
+      color: var(--muted);
+      font-size: 17px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+      gap: 24px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 18px;
+      box-shadow: 0 12px 28px rgba(36, 48, 63, 0.08);
+    }
+    .card h2 {
+      margin: 0 0 12px;
+      font-size: 20px;
+    }
+    .frame {
+      width: 100%;
+      aspect-ratio: 5 / 3;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      background: white;
+    }
+    .frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+    .links {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+    .links a {
+      color: var(--accent);
+      text-decoration: none;
+      margin-right: 14px;
+    }
+    .links a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Online Retail Output Graphs</h1>
+    <p>Galerie légère pour visualiser tous les graphes sans ouvrir chaque SVG séparément.</p>
+
+    <div class="grid">
+      <section class="card">
+        <h2>Vue d'ensemble</h2>
+        <div class="frame"><img src="00_output_snapshot.svg" alt="Output snapshot" /></div>
+        <div class="links"><a href="00_output_snapshot.svg">Ouvrir le SVG</a></div>
+      </section>
+
+      <section class="card">
+        <h2>Ventes par pays</h2>
+        <div class="frame"><img src="01_country_sales.svg" alt="Country sales" /></div>
+        <div class="links"><a href="01_country_sales.svg">Ouvrir le SVG</a></div>
+      </section>
+
+      <section class="card">
+        <h2>Tendance mensuelle</h2>
+        <div class="frame"><img src="02_monthly_sales.svg" alt="Monthly sales" /></div>
+        <div class="links"><a href="02_monthly_sales.svg">Ouvrir le SVG</a></div>
+      </section>
+
+      <section class="card">
+        <h2>Ventes par fournisseur</h2>
+        <div class="frame"><img src="03_supplier_sales.svg" alt="Supplier sales" /></div>
+        <div class="links"><a href="03_supplier_sales.svg">Ouvrir le SVG</a></div>
+      </section>
+
+      <section class="card">
+        <h2>Fournisseurs UK 2011</h2>
+        <div class="frame"><img src="04_supplier_sales_uk_2011.svg" alt="Supplier sales UK 2011" /></div>
+        <div class="links"><a href="04_supplier_sales_uk_2011.svg">Ouvrir le SVG</a></div>
+      </section>
+
+      <section class="card">
+        <h2>Ventes par continent</h2>
+        <div class="frame"><img src="05_continent_sales.svg" alt="Continent sales" /></div>
+        <div class="links"><a href="05_continent_sales.svg">Ouvrir le SVG</a></div>
+      </section>
+
+      <section class="card">
+        <h2>Annulations par continent</h2>
+        <div class="frame"><img src="06_cancellations_by_continent.svg" alt="Cancellations by continent" /></div>
+        <div class="links"><a href="06_cancellations_by_continent.svg">Ouvrir le SVG</a></div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>

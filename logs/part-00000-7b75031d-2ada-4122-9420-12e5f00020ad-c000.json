@@ -1,0 +1,5 @@
+{"step":"raw_retail","row_count":541909}
+{"step":"supplier","row_count":25901}
+{"step":"mapping","row_count":39}
+{"step":"initial dataset","row_count":541909}
+{"step":"after normalize_types","row_count":541909}

@@ -1,0 +1,5 @@
+{"step":"missing_InvoiceDate","row_count":305984}
+{"step":"after handle_missing_values","row_count":229998}
+{"step":"after filter_valid_transactions","row_count":225811}
+{"step":"after filter_outliers","row_count":225420}
+{"step":"cleaned","row_count":225420}

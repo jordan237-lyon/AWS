@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect x="0" y="0" width="1200" height="720" fill="#f6f2ea"/>
+<rect x="24" y="24" width="1152" height="672" rx="24" fill="#fffdf8" stroke="#eadfce"/>
+<text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Supplier Sales</text>
+<text x="60" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Top fournisseurs par montant total</text>
+<text x="164" y="103.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F227</text>
+<rect x="180" y="88.0" width="940.00" height="20.00" rx="8" fill="#457b9d"/>
+<text x="1130.00" y="103.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">58.6K</text>
+<text x="164" y="139.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F662</text>
+<rect x="180" y="124.0" width="671.41" height="20.00" rx="8" fill="#457b9d"/>
+<text x="861.41" y="139.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">41.8K</text>
+<text x="164" y="175.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F976</text>
+<rect x="180" y="160.0" width="461.44" height="20.00" rx="8" fill="#457b9d"/>
+<text x="651.44" y="175.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">28.7K</text>
+<text x="164" y="211.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F559</text>
+<rect x="180" y="196.0" width="453.70" height="20.00" rx="8" fill="#457b9d"/>
+<text x="643.70" y="211.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">28.3K</text>
+<text x="164" y="247.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F131</text>
+<rect x="180" y="232.0" width="450.58" height="20.00" rx="8" fill="#457b9d"/>
+<text x="640.58" y="247.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">28.1K</text>
+<text x="164" y="283.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F462</text>
+<rect x="180" y="268.0" width="437.20" height="20.00" rx="8" fill="#457b9d"/>
+<text x="627.20" y="283.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">27.2K</text>
+<text x="164" y="319.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F437</text>
+<rect x="180" y="304.0" width="411.03" height="20.00" rx="8" fill="#457b9d"/>
+<text x="601.03" y="319.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">25.6K</text>
+<text x="164" y="355.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F499</text>
+<rect x="180" y="340.0" width="391.81" height="20.00" rx="8" fill="#457b9d"/>
+<text x="581.81" y="355.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">24.4K</text>
+<text x="164" y="391.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F253</text>
+<rect x="180" y="376.0" width="388.48" height="20.00" rx="8" fill="#457b9d"/>
+<text x="578.48" y="391.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">24.2K</text>
+<text x="164" y="427.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F849</text>
+<rect x="180" y="412.0" width="371.36" height="20.00" rx="8" fill="#457b9d"/>
+<text x="561.36" y="427.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">23.1K</text>
+<text x="164" y="463.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F389</text>
+<rect x="180" y="448.0" width="341.34" height="20.00" rx="8" fill="#457b9d"/>
+<text x="531.34" y="463.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">21.3K</text>
+<text x="164" y="499.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F978</text>
+<rect x="180" y="484.0" width="320.63" height="20.00" rx="8" fill="#457b9d"/>
+<text x="510.63" y="499.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">20.0K</text>
+<text x="164" y="535.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F730</text>
+<rect x="180" y="520.0" width="319.79" height="20.00" rx="8" fill="#457b9d"/>
+<text x="509.79" y="535.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">19.9K</text>
+<text x="164" y="571.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F188</text>
+<rect x="180" y="556.0" width="318.21" height="20.00" rx="8" fill="#457b9d"/>
+<text x="508.21" y="571.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">19.8K</text>
+<text x="164" y="607.0" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1f2937">F356</text>
+<rect x="180" y="592.0" width="312.76" height="20.00" rx="8" fill="#457b9d"/>
+<text x="502.76" y="607.00" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1f2937">19.5K</text>
+</svg>

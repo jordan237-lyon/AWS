@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect x="0" y="0" width="1200" height="720" fill="#f6f2ea"/>
+<rect x="24" y="24" width="1152" height="672" rx="24" fill="#fffdf8" stroke="#eadfce"/>
+<text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Cancellations by Continent</text>
+<text x="60" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6b7280">Nombre d&#x27;operations annulees par continent</text>
+<rect x="192.00" y="120.00" width="221.00" height="500.00" rx="8" fill="#8c3f4d"/>
+<text x="302.50" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 302.50 644)">Europe</text>
+<text x="302.50" y="110.00" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">3.8K</text>
+<rect x="437.00" y="616.97" width="221.00" height="3.03" rx="8" fill="#8c3f4d"/>
+<text x="547.50" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 547.50 644)">Asia</text>
+<text x="547.50" y="606.97" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">23</text>
+<rect x="682.00" y="618.42" width="221.00" height="1.58" rx="8" fill="#8c3f4d"/>
+<text x="792.50" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 792.50 644)">Oceania</text>
+<text x="792.50" y="608.42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">12</text>
+<rect x="927.00" y="619.74" width="221.00" height="0.26" rx="8" fill="#8c3f4d"/>
+<text x="1037.50" y="644" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#1f2937" transform="rotate(25 1037.50 644)">North America</text>
+<text x="1037.50" y="609.74" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1f2937">2</text>
+</svg>
