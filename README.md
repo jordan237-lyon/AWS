@@ -145,7 +145,7 @@ Architecture cible :
 4. execution des jobs Glue ;
 5. ecriture des sorties analytiques dans S3 au format Parquet.
 
-Exemples de ressources AWS mentionnees dans le projet :
+ressources AWS mentionnees dans le projet :
 
 - bucket S3 source ;
 - bucket S3 de sortie ;
